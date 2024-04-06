@@ -1,1 +1,1 @@
-# Mutual-funds-mini-project
+# Mutual-funds-advisor-mini-project
